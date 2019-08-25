@@ -1,13 +1,3 @@
----
-title: 快速上手使用黑苹果
-date: 2019-08-25
-tags:
-- hackintosh
-categories: hackintosh
-description: 黑苹果安装过程记录
-cover: https://img.vim-cn.com/71/7d5576cb97bebf5e6d5beade2ec35ea4c25706.png
----
-
 # 前言
 
 本篇文章的目的是为了减少新手爬贴的麻烦，但是怕麻烦的人尽早放弃黑苹果。一旦决心折腾黑苹果了，就一定要耐心做下去。黑苹果的安装就是刚完成一个环节下一个环节就会有可能出问题的折腾历程。如果对自己的耐性没有信心还是尽早去淘宝叫人花50块钱给你装。
